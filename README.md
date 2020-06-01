@@ -1,6 +1,7 @@
 # Deep-SloMo [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 Official PyTorch implementation of "Deep Slow Motion Video Reconstruction with Hybrid Imaging System" [Project](http://faculty.cs.tamu.edu/nimak/Papers/ICCP2020_Slomo) | [Paper](https://arxiv.org/abs/2002.12106)
 
+The paper will be published in TPAMI and presented at ICCP.
 <img src='./misc/Teaser.png'>
 
 ## Prerequisites
