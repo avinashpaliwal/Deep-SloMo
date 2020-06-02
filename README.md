@@ -1,7 +1,11 @@
 # Deep-SloMo [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
-Official PyTorch implementation of "Deep Slow Motion Video Reconstruction with Hybrid Imaging System" [Project](http://faculty.cs.tamu.edu/nimak/Papers/ICCP2020_Slomo) | [Paper](https://arxiv.org/abs/2002.12106)
+Official PyTorch implementation of "Deep Slow Motion Video Reconstruction with Hybrid Imaging System" [Project](http://faculty.cs.tamu.edu/nimak/Papers/ICCP2020_Slomo) | [Paper](https://arxiv.org/abs/2002.12106)  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) and ICCP 2020.  
 
-The paper will be published in TPAMI and presented at ICCP.
+This project is an appliaction of Computational Photography to enhance the slow motion video capturing capabilities of cameras by leveraging [dual camera setups](#-our-real-camera-rigs).  
+
+Example: If a dual camera smartphone is capable of capturing 240fps at 480p and 30fps at 1080p, we can generate 240fps 1080p videos by simultaneously utilizing both cameras.
+
 <img src='./misc/Teaser.png'>
 
 ## Prerequisites
@@ -46,6 +50,9 @@ The `--scene_root` is path to the scene folder containing low-res `LR` and high-
 
 ### Video
 [![Audi R8](misc/video_shot.jpg)](https://www.youtube.com/watch?v=43HH3YN8U10)
+
+### Our real camera rigs
+<img src='./misc/camera_rig.jpg'>
 
 ## References
 ```
