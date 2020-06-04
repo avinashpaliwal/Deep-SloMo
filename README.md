@@ -59,7 +59,9 @@ The `--scene_root` is path to the scene folder containing low-res `LR` and high-
 @article{paliwal2020slowmotion,
   author={A. {Paliwal} and N. {Khademi Kalantari}}, 
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-  title={Deep Slow Motion Video Reconstruction with Hybrid Imaging System}, 
-  year={2020}
-}
+  title={Deep Slow Motion Video Reconstruction With Hybrid Imaging System}, 
+  year={2020},
+  volume={42},
+  number={7},
+  pages={1557-1569},}
 ```
